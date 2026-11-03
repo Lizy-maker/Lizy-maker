@@ -1,0 +1,25 @@
+title: LI ZHENYU's Homepage
+page-top-title: LI ZHENYU
+top-section-bg-text: Korean Language &middot; Banking
+backgrounds:
+  - static/assets/background/background_0.jpeg
+  - static/assets/background/background_1.jpeg
+background-interval-ms: 7000
+background-overlay: 0.52
+copyright-text: '&copy; LI ZHENYU 2026. All Rights Reserved.'
+github-link:
+  text: Github
+  href: https://github.com/Lizy-maker
+sections:
+  - id: home
+    nav: HOME
+    title: LI ZHENYU&ensp;|&ensp;李震宇
+    href: '#page-top' # Default to '#<id>' if not specified
+  - id: experience
+    nav: EXPERIENCE
+    title: EXPERIENCE
+    icon: bi-briefcase-fill
+  - id: certificates
+    nav: CERTIFICATES
+    title: CERTIFICATES
+    icon: bi-award-fill
