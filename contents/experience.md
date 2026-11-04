@@ -1,4 +1,3 @@
-#### Professional Experience
 
 **招商银行深圳分行** — 大堂经理, 2022 — 2026
 
