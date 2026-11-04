@@ -13,7 +13,7 @@ github-link:
 sections:
   - id: home
     nav: HOME
-    title: LI ZHENYU&ensp;|&ensp;李震宇
+    title: LI ZHENYU&ensp;
     href: '#page-top' # Default to '#<id>' if not specified
   - id: experience
     nav: EXPERIENCE
